@@ -4,7 +4,7 @@ Memory management is an operating system feature that handles or controls primar
 
 The recent [Demonstration](https://youtu.be/lf5ocDQCy70) of the **Storage Management** techniques.
 
-> [!Quick Note]
+> [!Note]
 > Using the [recommended inputs](recommended_input.txt).
 
 ## In this program we will review 3 techniques of memory storage management with a sample algorithm written in python:
